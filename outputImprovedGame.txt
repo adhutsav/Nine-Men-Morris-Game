@@ -1,0 +1,35 @@
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 1
+-------------- IMPROVED MINI MAX  ----------------
+Board Position: WWxxWBWBBBxBBxWxWBWxW
+Positions evaluated by static estimation: 14
+MINIMAX estimate: 616
+**************************************************
+
+**************************************************
+Input : BWBWBxxxxxxBxBxWxBxxx
+Depth : 1
+-------------- IMPROVED MINI MAX  ----------------
+Board Position: BWBWBWxxxxxBxxxxxBxxx
+Positions evaluated by static estimation: 38
+MINIMAX estimate: 12
+**************************************************
+
+**************************************************
+Input : BxBWBxxxxxxBxBxWxBxxW
+Depth : 2
+-------------- IMPROVED MINI MAX  ----------------
+Board Position: BxBxBxxxxxWBxBxWxBxxW
+Positions evaluated by static estimation: 465
+MINIMAX estimate: -364
+**************************************************
+
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 4
+-------------- IMPROVED MINI MAX  ----------------
+Board Position: WWxxWBWBBBxBBxWxWBWxW
+Positions evaluated by static estimation: 37590
+MINIMAX estimate: 262
+**************************************************

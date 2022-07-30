@@ -1,0 +1,72 @@
+**************************************************
+Input : xxxxxxxxxxWxxxxxxxxxx
+Depth : 1
+Board Position: WxxxxxxxxxWxxxxxxxxxx
+Positions evaluated by static estimation: 20
+MINIMAX estimate: 2
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 1
+Board Position: WxBxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 22
+MINIMAX estimate: 2
+**************************************************
+
+**************************************************
+Input : BWBxxWxxxxxxWBxxxxxxx
+Depth : 1
+Board Position: xWBWxWxxxxxxWBxxxxxxx
+Positions evaluated by static estimation: 17
+MINIMAX estimate: 2
+**************************************************
+
+**************************************************
+Input : WxBWWxxxxWxxBBWWBBBWB
+Depth : 1
+Board Position: WxxWWWxxxWxxBBWWBBBWB
+Positions evaluated by static estimation: 13
+MINIMAX estimate: 2
+**************************************************
+
+**************************************************
+Input : WxBWWxxxxWxxBBWWBBBWB
+Depth : 2
+Board Position: WxxWWWxxxWxxBBWWBBBWB
+Positions evaluated by static estimation: 85
+MINIMAX estimate: 1
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 2
+Board Position: WBxxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 320
+MINIMAX estimate: 1
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 4
+Board Position: WBxxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 79012
+MINIMAX estimate: 2
+**************************************************
+
+**************************************************
+Input : WxBWWxxxxWxxBBWWBBBWB
+Depth : 6
+Board Position: WxxWWWxxxWxxBBWWBBBWB
+Positions evaluated by static estimation: 272376
+MINIMAX estimate: 2
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 6
+Board Position: WBxxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 15607400
+MINIMAX estimate: 2
+**************************************************
+

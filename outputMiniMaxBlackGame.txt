@@ -1,0 +1,44 @@
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 1
+--------------- MiniMaxBlackGame  ----------------
+Board Position: WWBxWBWBBBBBBxWWxxxxW
+Positions evaluated by static estimation: 13
+MINIMAX estimate: 988
+**************************************************
+
+**************************************************
+Input : BWBWBxxxxxxBxBxWxBxxx
+Depth : 1
+--------------- MiniMaxBlackGame  ----------------
+Board Position: BWBWxBxxxxxBxBxWxBxxx
+Positions evaluated by static estimation: 13
+MINIMAX estimate: 2964
+**************************************************
+
+**************************************************
+Input : BxBWBxxxxWxBxBxWxBxxx
+Depth : 2
+--------------- MiniMaxBlackGame  ----------------
+Board Position: BBBWBxxxxWxxxBxWxBxxx
+Positions evaluated by static estimation: 540
+MINIMAX estimate: 2962
+**************************************************
+
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 4
+--------------- MiniMaxBlackGame  ----------------
+Board Position: WWBxWBWBBBBBBxWWxxxxW
+Positions evaluated by static estimation: 38102
+MINIMAX estimate: -14
+**************************************************
+
+**************************************************
+Input : BWBWBxxxxxxBxBxWxBxxx
+Depth : 2
+--------------- MiniMaxBlackGame  ----------------
+Board Position: BWBWxBxxxxxBxBxWxBxxx
+Positions evaluated by static estimation: 501
+MINIMAX estimate: 2959
+**************************************************

@@ -1,0 +1,85 @@
+**************************************************
+Input : xxxxxxxxxxWxxxxxxxxxx
+Depth : 1
+------------------- ABOpening  -------------------
+Board Position: WxxxxxxxxxWxxxxxxxxxx
+Positions evaluated by static estimation: 20
+AlphaBeta estimate: 2
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 1
+------------------- ABOpening  -------------------
+Board Position: WxBxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 22
+AlphaBeta estimate: 2
+**************************************************
+
+**************************************************
+Input : BWBxxWxxxxxxWBxxxxxxx
+Depth : 1
+------------------- ABOpening  -------------------
+Board Position: xWBWxWxxxxxxWBxxxxxxx
+Positions evaluated by static estimation: 17
+AlphaBeta estimate: 2
+**************************************************
+
+**************************************************
+Input : WxBWWxxxxWxxBBWWBBBWB
+Depth : 1
+------------------- ABOpening  -------------------
+Board Position: WxxWWWxxxWxxBBWWBBBWB
+Positions evaluated by static estimation: 13
+AlphaBeta estimate: 2
+**************************************************
+
+**************************************************
+Input : WxBWWxxxxWxxBBWWBBBWB
+Depth : 2
+------------------- ABOpening  -------------------
+Board Position: WxxWWWxxxWxxBBWWBBBWB
+Positions evaluated by static estimation: 24
+AlphaBeta estimate: 1
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 2
+------------------- ABOpening  -------------------
+Board Position: WBxxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 78
+AlphaBeta estimate: 1
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 4
+------------------- ABOpening  -------------------
+Board Position: WBxxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 3269
+AlphaBeta estimate: 2
+**************************************************
+
+**************************************************
+Input : WxBWWxxxxWxxBBWWBBBWB
+Depth : 6
+------------------- ABOpening  -------------------
+Board Position: WxxWWWxxxWxxBBWWBBBWB
+Positions evaluated by static estimation: 1411
+AlphaBeta estimate: 2
+**************************************************
+
+**************************************************
+Input : WBBxxxxBxxxBWxxxxxWxW
+Depth : 6
+------------------- ABOpening  -------------------
+Board Position: WBxxxxWBxxxBWxxxxxWxW
+Positions evaluated by static estimation: 102247
+AlphaBeta estimate: 2
+**************************************************
+
+
+
+
+

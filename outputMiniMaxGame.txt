@@ -1,0 +1,35 @@
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 1
+$$$$$$$$$$$$$$$$$$ MiniMaxGame  $$$$$$$$$$$$$$$$$$
+Board Position: WWBxWBWBBBxxBxWxWBWxW
+Positions evaluated by static estimation: 14
+MINIMAX estimate: 989
+**************************************************
+
+**************************************************
+Input : BWBWBxxxxxxBxBxWxBxxx
+Depth : 1
+$$$$$$$$$$$$$$$$$$ MiniMaxGame  $$$$$$$$$$$$$$$$$$
+Board Position: BWBWBWxxxxxBxBxxxxxxx
+Positions evaluated by static estimation: 38
+MINIMAX estimate: -2008
+**************************************************
+
+**************************************************
+Input : BxBWBxxxxWxBxBxWxBxxx
+Depth : 2
+$$$$$$$$$$$$$$$$$$ MiniMaxGame  $$$$$$$$$$$$$$$$$$
+Board Position: BxBWBxxWxxxBxBxWxBxxx
+Positions evaluated by static estimation: 507
+MINIMAX estimate: -3017
+**************************************************
+
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 4
+$$$$$$$$$$$$$$$$$$ MiniMaxGame  $$$$$$$$$$$$$$$$$$
+Board Position: WxBWWBWBBBxBBxWWWBxxW
+Positions evaluated by static estimation: 37590
+MINIMAX estimate: -11
+**************************************************

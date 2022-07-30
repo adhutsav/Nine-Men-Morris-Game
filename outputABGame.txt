@@ -1,0 +1,36 @@
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 1
+--------------------- ABGame  --------------------
+Board Position: WWBxWBWBBBxxBxWxWBWxW
+Positions evaluated by static estimation: 14
+AlphaBeta estimate: 989
+**************************************************
+
+**************************************************
+Input : BWBWBxxxxxxBxBxWxBxxx
+Depth : 1
+--------------------- ABGame  --------------------
+Board Position: BWBWBWxxxxxBxBxxxxxxx
+Positions evaluated by static estimation: 38
+AlphaBeta estimate: -2008
+**************************************************
+
+**************************************************
+Input : BxBWBxxxxWxBxBxWxBxxx
+Depth : 2
+--------------------- ABGame  --------------------
+Board Position: BxBWBxxWxxxBxBxWxBxxx
+Positions evaluated by static estimation: 100
+AlphaBeta estimate: -3017
+**************************************************
+
+**************************************************
+Input : WWBxWBWBBBxBBxWWWBxxW
+Depth : 4
+--------------------- ABGame  --------------------
+Board Position: WxBWWBWBBBxBBxWWWBxxW
+Positions evaluated by static estimation: 5948
+AlphaBeta estimate: -11
+**************************************************
+
